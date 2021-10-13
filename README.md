@@ -10,9 +10,11 @@
 
 - 📫 How to reach me **aftarahmadsami@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/aftar-ahmad-sami-780741210](https://www.linkedin.com/in/aftar-ahmad-sami-780741210)
+- 📄 Know about my experiences:  [https://www.linkedin.com/in/aftar-ahmad-sami-780741210](https://www.linkedin.com/in/aftar-ahmad-sami-780741210)
 
-- ⚡ Fun fact **Google my Name and you'll find me on the top**
+- ⚡ Fun fact:  **Google my Name and you'll find me on the top**
+
+- monocle_face Secret Identity: **Can't Tell You!**
 
 <br>
 
