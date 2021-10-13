@@ -1,4 +1,4 @@
-<p align="center"><img width="100%" height="auto" src="https://cdn.dribbble.com/users/124059/screenshots/5207800/icons-animated.gif" height="150px"/></p>
+<p align="center"><img width="50%" height="auto" src="https://cdn.dribbble.com/users/124059/screenshots/5207800/icons-animated.gif" height="150px"/></p>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Aftar Ahmad Sami</h1>
 <h3 align="center">An Ardent Learner</h3>
 
