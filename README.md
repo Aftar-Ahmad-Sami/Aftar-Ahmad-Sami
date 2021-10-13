@@ -2,6 +2,8 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Aftar Ahmad Sami</h1>
 <h3 align="center">An Ardent Learner</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aftar-ahmad-sami&label=Profile%20views&color=0e75b6&style=flat" alt="aftar-ahmad-sami" /> </p>
+
 # About Me
 - 🔭 I’m currently working on **a Java Project, 2nd Year OOP Project**
 
