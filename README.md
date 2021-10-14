@@ -7,7 +7,7 @@
 # About Me
 - 🔭 I’m currently working on **a Java Project, 2nd Year OOP Project**
 
-- 🌱 I’m currently learning **Java, Flutter, etc**
+- 🌱 I’m currently learning **Java, etc**
 
 - 💬 Ask me about **Technology, Current Affairs and Islam**
 
