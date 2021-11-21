@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aftar-ahmad-sami&label=Profile%20views&color=0e75b6&style=flat" alt="aftar-ahmad-sami" /> </p>
 
 # About Me
-- 🔭 I’m currently working on **a Java Project, 2nd Year OOP Project**
+- 🔭 I’m currently working on **a Java Project**
 
 - 🌱 I’m currently learning **Java, etc**
 
