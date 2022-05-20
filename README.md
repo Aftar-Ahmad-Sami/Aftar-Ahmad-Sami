@@ -2,7 +2,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Aftar Ahmad Sami</h1>
 <h3 align="center">An Ardent Learner</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aftar-ahmad-sami&label=Profile%20views&color=0e75b6&style=flat" alt="aftar-ahmad-sami" /> </p>
 
 # About Me
 - 🔭 I’m currently working on **_Something Interesting_**
@@ -19,8 +18,9 @@
 
 - ⌚ Secret Identity: **Can't Tell!**
 
-<br>
-
+<!--
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=aftar-ahmad-sami&label=Profile%20views&color=0e75b6&style=flat" alt="aftar-ahmad-sami" /> </p>
+-->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aftar-ahmad-sami-780741210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aftar-ahmad-sami-780741210" height="30" width="40" /></a>
@@ -43,9 +43,7 @@
 </p>
 
 #
-<br>
-
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=aftar-ahmad-sami&show_icons=true&locale=en" alt="aftar-ahmad-sami" /></p>
-<p><img src="https://github-readme-streak-stats.herokuapp.com?user=Aftar-Ahmad-Sami&theme=blood-dark&date_format=M%20j%5B%2C%20Y%5D" alt="aftar-ahmad-sami" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=aftar-ahmad-sami&show_icons=true&locale=en&layout=compact" alt="aftar-ahmad-sami" /></p>
+<p align="center"><img align="center" hspace="30" vspace="30" src="https://github-readme-stats.vercel.app/api?username=aftar-ahmad-sami&show_icons=true&locale=en" alt="aftar-ahmad-sami" /></p>
+<p align="center"><img align="center" hspace="30" vspace="30" src="https://github-readme-streak-stats.herokuapp.com?user=Aftar-Ahmad-Sami&date_format=M%20j%5B%2C%20Y%5D" alt="aftar-ahmad-sami" /></p>
+<p align="center"><img  hspace="30" vspace="30" src="https://github-readme-stats.vercel.app/api/top-langs?username=aftar-ahmad-sami&show_icons=true&locale=en&layout=compact" alt="aftar-ahmad-sami" /></p>
 
