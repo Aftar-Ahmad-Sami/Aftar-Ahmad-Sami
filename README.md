@@ -1,15 +1,15 @@
-<p align="center"><img width="50%" height="auto" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/bb55d815-d14e-45d3-abc4-efe556e169d0/d9jxcng-9117f251-497c-450b-bf6b-e31883c73632.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2JiNTVkODE1LWQxNGUtNDVkMy1hYmM0LWVmZTU1NmUxNjlkMFwvZDlqeGNuZy05MTE3ZjI1MS00OTdjLTQ1MGItYmY2Yi1lMzE4ODNjNzM2MzIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.DNEkUCmCy9hqGkwHXFAc08w8XSVHJnsITQqgCVmOu3g" height="150px"/></p>
+<p align="center"><img width="65%" height="auto" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/bb55d815-d14e-45d3-abc4-efe556e169d0/d9jxcng-9117f251-497c-450b-bf6b-e31883c73632.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2JiNTVkODE1LWQxNGUtNDVkMy1hYmM0LWVmZTU1NmUxNjlkMFwvZDlqeGNuZy05MTE3ZjI1MS00OTdjLTQ1MGItYmY2Yi1lMzE4ODNjNzM2MzIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.DNEkUCmCy9hqGkwHXFAc08w8XSVHJnsITQqgCVmOu3g" height="150px"/></p>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Aftar Ahmad Sami</h1>
 <h3 align="center">An Ardent Learner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aftar-ahmad-sami&label=Profile%20views&color=0e75b6&style=flat" alt="aftar-ahmad-sami" /> </p>
 
 # About Me
-- 🔭 I’m currently working on **a Java Project**
+- 🔭 I’m currently working on **_Something Interesting_**
 
-- 🌱 I’m currently learning **Flutter, Dart, AWK and SED**
+- 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **Technology, Current Affairs and Islam**
+- 💬 Ask me about **Technology & Current Affairs**
 
 - 📫 How to reach me **aftarahmadsami@gmail.com**
 
@@ -44,9 +44,8 @@
 
 #
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aftar-ahmad-sami&show_icons=true&locale=en" alt="aftar-ahmad-sami" /></p>
-<br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aftar-ahmad-sami&" alt="aftar-ahmad-sami" /></p>
-<br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aftar-ahmad-sami&show_icons=true&locale=en&layout=compact" alt="aftar-ahmad-sami" /></p>
+
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=aftar-ahmad-sami&show_icons=true&locale=en" alt="aftar-ahmad-sami" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com?user=Aftar-Ahmad-Sami&theme=blood-dark&date_format=M%20j%5B%2C%20Y%5D" alt="aftar-ahmad-sami" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=aftar-ahmad-sami&show_icons=true&locale=en&layout=compact" alt="aftar-ahmad-sami" /></p>
 
