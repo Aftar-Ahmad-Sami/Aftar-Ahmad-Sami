@@ -6,7 +6,7 @@
 # About Me
 - 🔭 I’m currently working on **_Something Interesting_**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Flutter & React Native**
 
 - 💬 Ask me about **Technology & Current Affairs**
 
