@@ -1,18 +1,18 @@
 <p align="center"><img width="65%" height="auto" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/bb55d815-d14e-45d3-abc4-efe556e169d0/d9jxcng-9117f251-497c-450b-bf6b-e31883c73632.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2JiNTVkODE1LWQxNGUtNDVkMy1hYmM0LWVmZTU1NmUxNjlkMFwvZDlqeGNuZy05MTE3ZjI1MS00OTdjLTQ1MGItYmY2Yi1lMzE4ODNjNzM2MzIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.DNEkUCmCy9hqGkwHXFAc08w8XSVHJnsITQqgCVmOu3g" height="150px"/></p>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Aftar Ahmad Sami</h1>
-<h3 align="center">An Ardent Learner</h3>
+<h3 align="center">Machine Learning/ Deep Learning Researcher</h3>
 
 
 # About Me
 - 🔭 I’m currently working on **_Something Interesting_**
 
-- 🌱 I’m currently learning **Flutter & React Native**
+- 🌱 I’m currently learning **Computer Vision and Generative Adversarial Network (GAN)**
 
 - 💬 Ask me about **Technology & Current Affairs**
 
 - 📫 How to reach me **aftarahmadsami@gmail.com**
 
-- 📄 Know about my experiences:  [https://www.linkedin.com/in/aftar-ahmad-sami-780741210](https://www.linkedin.com/in/aftar-ahmad-sami-780741210)
+- 📄 Know about my experiences:  [https://www.linkedin.com/in/aftar-ahmad-sami](https://www.linkedin.com/in/aftar-ahmad-sami)
 
 - ⚡ Fun fact:  **Google my Name and you'll find me on the top**
 
