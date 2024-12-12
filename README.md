@@ -6,7 +6,7 @@
 # About Me
 - 🔭 I’m currently working on **_Something Interesting_**
 
-- 🌱 I’m currently learning **Computer Vision and Generative Adversarial Network (GAN)**
+- 🌱 I’m currently learning **Federated Learning**
 
 - 💬 Ask me about **Technology & Current Affairs**
 
